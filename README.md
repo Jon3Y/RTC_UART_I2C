@@ -1,0 +1,1 @@
+Architecture as shown in figure rtc_uart_i2c.png.
